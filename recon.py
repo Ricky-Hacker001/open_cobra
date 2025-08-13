@@ -11,7 +11,7 @@ Note: This tool is educational and intentionally constrained:
   output verbatim jailbreak phrases. You must manually fill placeholders before use.
 - Reporting: consolidated Markdown + JSON session snapshot.
 
-Author: You + ChatGPT
+Author: Ricky + ChatGPT
 License: MIT
 """
 
