@@ -69,11 +69,11 @@ It combines **multiple modules** into a single toolkit:
 
 ## 🖥️ Usage
  - Run the toolkit:
- - python3 recon.py
+     - python3 recon.py
  - Choose a module:
-  - [1] Passive Recon (generate Google dorks)
-  - [2] Vulnerability Checker (LOCALHOST ONLY)
-  - [3] Hash Cracker
-  - [4] Prompt Injection Tester
-  - [5] Generate Security Report
-  - [6] Exit
+    - [1] Passive Recon (generate Google dorks)
+    - [2] Vulnerability Checker (LOCALHOST ONLY)
+    - [3] Hash Cracker
+    - [4] Prompt Injection Tester
+    - [5] Generate Security Report
+    - [6] Exit
