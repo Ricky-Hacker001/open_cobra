@@ -62,7 +62,7 @@ It combines **multiple modules** into a single toolkit:
 ## 🔧 Installation
 
 1. **Clone the repository**
- - git clone [https://github.com/yourusername/open_cobra.git](https://github.com/yourusername/open_cobra.git)
+ - git clone https://github.com/Ricky-Hacker001/open_cobra.git
  - cd open_cobra
 
 2. **Install dependencies**
