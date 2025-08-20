@@ -68,7 +68,8 @@ It combines **multiple modules** into a single toolkit:
 2. **Install dependencies**
  - pip install -r requirements.txt
 3. **Download a good wordlist (optional)**
- - wget [https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt](https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt)
+ - https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt](https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/
+
  - mv rockyou.txt data_wordlist.txt
 
 ---
